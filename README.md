@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring the realms of technology and building amazing web projects.
 - 🌱 I’m currently learning the art of Full Stack Web Development, diving into frontend and backend technologies.
 - 💞️ I’m looking to collaborate on projects that challenge me and push the boundaries of my coding skills.
-- 📫 How to reach me: Connect with me on LinkedIn [linkedin.com/in/prashantuff] or drop me an email at [prashantsinghalpq@email.com].
+- 📫 How to reach me: Connect with me on LinkedIn [www.linkedin.com/in/prashantuff] or drop me an email at [prashantsinghalpq@email.com].
 
 
 <!---
